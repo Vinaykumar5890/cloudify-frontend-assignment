@@ -49,12 +49,12 @@ Ensure you have the following installed on your system:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Vinaykumar5890/cloudify-frontend-assignment.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd react-table-assignment
+   cd cloudify-frontend-assignment
    ```
 
 3. Install dependencies:
@@ -81,9 +81,6 @@ Ensure you have the following installed on your system:
 react-table-assignment/
 |-- src/
 |   |-- components/
-|   |   |-- Events
-|   |       |-- index.js
-|   |       |-- index.css
 |   |-- App.js
 |   |-- App.css
 |-- public/
